@@ -1,0 +1,71 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 5
+Pontos : 20
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Correto!
+
+Nota: 10
+--------------------------------------
+Questão 9
+Feedback:
+As regras de negócios são consistentes em elementos para catálogo, mas faltou definir quantidades específicas e na frase: "deve ser enviado para equipe de estoque para que ele ser retroalimentado" o português precisa ser melhorado, com uma sugestão de: "deve ser enviado para equipe de estoque para que ele SEJA retroalimentado". O verbo ser deve ser conjugado de forma correta.
+
+Nota: 7
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+São apresentados 3 ganhos pelo aluno.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+São apresentados exemplos para cada ganho.
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+Não identifiquei erros de concordância ou ortografia. O texto está coerente.
+
+A resposta mostra não apenas apreensão do conteúdo questionado nesta dissertativa, mas também atenção ao conteúdo dos autoestudos e dos encontros. Parabéns, Dayllan!           FEEDBACK RAFAEL: trouxe elementos substanciais, tanto em mencionar o diferencial bem como as vantagens de utilização (3,5)."
+Nota: 10
+=============================
+Parte 2
+=============================
+Feedback:
+"1.Sintaxe do BPMN (20%): 10
+2. Clareza e Legibilidade (15%): 15
+3. Completude (15%): 15
+4. Consistência (15%): 15
+5. Aderência às Melhores Práticas (20%): 20
+6. Eficiência e Otimização (15%): 15
+7. Nota final: 9,5
+Processo bem representado, padronização adotada.
+Não existe fluxo de mensagem entre piscinas da mesma raia. Deveria criar piscinas diferentes ou retirar os eventos iniciais e finais de cada raia."
+
+
+Nota: 9,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 20
+(P1-8) - Parte 1 - Questão 8			: 10
+(P1-9) - Parte 1 - Questão 9			: 7
+(P1-10)- Parte 1 - Questão 10			: 10
+(P2-D) - Parte 2  						: 9,5
+=================
+MÉDIA = 8,7
+=================

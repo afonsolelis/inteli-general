@@ -1,0 +1,71 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 4
+Pontos : 16
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 5
+--------------------------------------
+Questão 9
+Feedback:
+As regras de negócio desenvolvidas não atendem todos os requisitos para catálogo, apesar de mostrar um exemplo faltou o título e alguns elementos como ID da regra. Faltou identificar quantidades e o porque das quantidades de estoque mínimo, pois a regra de negócio precisa ser exata.
+
+Nota: 6
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+São apresentados 3 ganhos pelo aluno.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Não foram apresentados exemplos contextualizados, aplicados. As explicações foram mais generalistas (1,0)
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+Não identifiquei erros de concordância ou ortografia. O texto está coerente. (3,0)  FEEDBACK RAFAEL: Foi trazido uma ideia superficial do que é o BMPN, sem mencionar o diferencial e nem listar as vantagens. Texto sem erros(2,0)"
+
+Nota: 7,1
+=============================
+Parte 2
+=============================
+Feedback:
+"Sintaxe do BPMN (20%): 15%
+2. Clareza e Legibilidade (15%): 5
+3. Completude (15%): 5%
+4. Consistência (15%): 5
+5. Aderência às Melhores Práticas (20%): 10%
+6. Eficiência e Otimização (15%): 0
+7. Nota final: 2,5
+Tem duas piscinas de Compras. Se é um único processo, deveria ser apenas uma piscina. Cada piscina precisa ter evento inicial e final e o seu próprio fluxo. Fluxo de atividades entre raias da mesma piscina é linha contínua (pontilhado é fluxo de mensagens). Não padronizou nome de atividades. Não representou as decisões."
+
+Nota: 2,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 16
+(P1-8) - Parte 1 - Questão 8			: 5
+(P1-9) - Parte 1 - Questão 9			: 6
+(P1-10)- Parte 1 - Questão 10			: 7,1
+(P2-D) - Parte 2  						: 2,5
+=================
+MÉDIA = 4,1
+=================

@@ -1,0 +1,73 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 7
+Pontos : 28
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 5
+--------------------------------------
+Questão 9
+Feedback:
+"Pontos de melhoria:
+
+Especificar mais detalhadamente o que significa ""definição da quantidade"" para maior clareza."
+
+Nota: 9,5
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Lista 3 ganhos.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Apresenta mais explicações do que exemplos concretos. (1,0)
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+Não identifiquei erros de concordância ou gramática. O texto está coerente. (3,0)   FEEDBACK RAFAEL: Excelente texto, coerente, claro e objetivo quanto aos requisitos! (3,5)"
+
+Nota: 9,6
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 20%
+2. Clareza e Legibilidade (15%): 10%
+3. Completude (15%): 15%
+4. Consistência (15%): 10%
+5. Aderência às Melhores Práticas (20%): 15%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 95%
+comentário: Há espaço para melhorias em relação à padronização, como por exemplo: ""aprovou"" e ""não aprovado"", sendo que deveria estar direcionado em ""Aprovado"" e ""Não Aprovado"". Geralmente este padrão é adotado em todos a partir de sua primeira definição. Cuidado com o uso do fluxo de mensagens (linha pontilhada). Ele é usado entre piscinas e não entre raias. A raia (ou piscina) Estoque ficou “perdida” no diagrama."
+
+Nota: 9,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 28
+(P1-8) - Parte 1 - Questão 8			: 5
+(P1-9) - Parte 1 - Questão 9			: 9,5
+(P1-10)- Parte 1 - Questão 10			: 9,6
+(P2-D) - Parte 2  						: 9,5
+=================
+MÉDIA = 9,3
+=================

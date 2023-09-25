@@ -1,0 +1,69 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 5
+Pontos : 20
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 0
+--------------------------------------
+Questão 9
+Feedback:
+"Pontos de melhoria:
+Refinar a condição para usar ""Quantidade no estoque < estoque mínimo"" e detalhar como o produto é bloqueado.
+Especificar se o valor se refere ao valor total da compra ou a itens individuais no carrinho e detalhar o cálculo do desconto para maior clareza.
+Colocar o identificador de forma correta.
+Elaborar todos os pontos solicitados na questão"
+
+Nota: 4
+--------------------------------------
+Questão 10
+Feedback:
+FEEDBACK JULIA: Não houve resposta para a questão.
+
+Nota: 0
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 15%
+2. Clareza e Legibilidade (15%): 10%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 90%
+comentário: O fluxograma em BPMN possui espaço de melhoria na identificação dos tipos de gateways, e em sua organização para a melhor leitura dos fluxos."
+
+Nota: 9
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 20
+(P1-8) - Parte 1 - Questão 8			: 0
+(P1-9) - Parte 1 - Questão 9			: 4
+(P1-10)- Parte 1 - Questão 10			: 0
+(P2-D) - Parte 2  						: 9
+=================
+MÉDIA = 6,9
+=================

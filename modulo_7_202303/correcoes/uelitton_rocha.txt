@@ -1,0 +1,65 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 4
+Pontos : 16
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 0
+--------------------------------------
+Questão 9
+Feedback:
+Sem feedback
+
+Nota: 0
+--------------------------------------
+Questão 10
+Feedback:
+FEEDBACK JULIA: Não houve resposta para a questão.
+
+Nota: 0
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 15%
+2. Clareza e Legibilidade (15%): 15%
+3. Completude (15%): 10%
+4. Consistência (15%): 10%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 85%
+comentário: Há espaço para melhorar no sentido de processos ""soltos"" em que vemos uma tarefa de usuário ""Confirmar com o fornecedor"" em vez de ser um processo decisório, ""nascer"" de um local vazio. Falta um evento final depois de “Refazer pedido”"
+
+Nota: 8,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 16
+(P1-8) - Parte 1 - Questão 8			: 0
+(P1-9) - Parte 1 - Questão 9			: 0
+(P1-10)- Parte 1 - Questão 10			: 0
+(P2-D) - Parte 2  						: 8,5
+=================
+MÉDIA = 5,9
+=================

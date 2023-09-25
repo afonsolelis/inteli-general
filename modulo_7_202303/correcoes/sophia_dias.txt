@@ -1,0 +1,73 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 6
+Pontos : 24
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Perfeito!
+
+Nota: 10
+--------------------------------------
+Questão 9
+Feedback:
+"Pontos de melhoria:
+
+Detalhar como a notificação do alerta é feita e como a equipe de estoque reage a ele.
+Especificar como a categoria do produto está relacionada ao desconto e detalhar o cálculo do desconto para maior clareza.
+Colocart o identificador correto."
+
+Nota: 7
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Lista 3 ganhos.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Apresenta 3 exemplos de forma mais generalista que concreta, mas deixa a definição bem explicada. (1,25)
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+Não identifiquei erros de concordância ou gramática. O texto está coerente e fluido. (3,25).     Feedback Rafael: abordou conceitos, e listou de maneira suficiente os benefícios. Texto muiot bem escrito (3,5)"
+
+Nota: 9,6
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 15%
+2. Clareza e Legibilidade (15%): 15%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 9,5
+comentário: Bom uso dos padrões.
+Depois do gateway, criou atividades quando na verdade, estes são os resultados possíveis da condição. Basta seguir para a próxima atividade."
+
+Nota: 9,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 24
+(P1-8) - Parte 1 - Questão 8			: 10
+(P1-9) - Parte 1 - Questão 9			: 7
+(P1-10)- Parte 1 - Questão 10			: 9,6
+(P2-D) - Parte 2  						: 9,5
+=================
+MÉDIA = 9,5
+=================

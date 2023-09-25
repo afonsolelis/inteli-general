@@ -1,0 +1,68 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 6
+Pontos : 24
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Perfeito!
+
+Nota: 10
+--------------------------------------
+Questão 9
+Feedback:
+As regras de negócio criadas não atendem os requisitos de catálogo, como ID, ação, descrição, e outros. Apresenta como se fosse um caso de uso.
+
+Nota: 5
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Os ganhos estão listados.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Não são apresentados exemplos de aplicação prática, apenas explicações mais generalistas (1,0).
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+A redação da primeira frase está longa e um pouco redundante. Possui margem para melhorias. (0,25) (2,75)       FEEDBACK RAFAEL: abordou conceitos sem se preocupar com as vantagens e benefícios de adoção, além de o texto estar muito genérico. Sem erros de ortografia e escrito de modo claro. (2,5)"
+
+Nota: 7,5
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 10%
+2. Clareza e Legibilidade (15%): 10%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 8,5%
+comentário: Uso das piscinas e notações corretas, apesar de que a notação de decisão necessite ser revisada (gateways). Alguns processos podem ser quebrados em 2 pois o próprio card ficou grande em termos de responsabilidade, como o de criação de pedido de compra."
+
+Nota: 8,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 24
+(P1-8) - Parte 1 - Questão 8			: 10
+(P1-9) - Parte 1 - Questão 9			: 5
+(P1-10)- Parte 1 - Questão 10			: 7,5
+(P2-D) - Parte 2  						: 8,5
+=================
+MÉDIA = 8,3
+=================

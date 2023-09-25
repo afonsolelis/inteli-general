@@ -1,0 +1,47 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos:
+Pontos :
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Nota:
+--------------------------------------
+Questão 9
+Feedback:
+Nota:
+--------------------------------------
+Questão 10
+Feedback:
+Nota:
+=============================
+Parte 2
+=============================
+Feedback:
+Nota:
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	:
+(P1-8) - Parte 1 - Questão 8			:
+(P1-9) - Parte 1 - Questão 9			:
+(P1-10)- Parte 1 - Questão 10			:
+(P2-D) - Parte 2  						:
+=================
+MÉDIA =
+=================

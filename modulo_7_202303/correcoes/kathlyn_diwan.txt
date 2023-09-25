@@ -1,0 +1,71 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 6
+Pontos : 24
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 9
+--------------------------------------
+Questão 9
+Feedback:
+Existem pontos de melhorias em relação às regras de negócio: no campo "regras relacionadas" denominar como N/A ou não aplicável; determinar como será feito a quantidade de produtos para reposição, pode ser através de um cálculo de estoque mínimo, pois generalizar que serão 100 produtos para todos pode dar problemas de contabilização de estoques e fluxo de produção, assim com deixar vago na descrição não é uma boa prática.
+
+Nota: 9
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+São listados os ganhos.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+São apresentados os exemplos para os ganhos.
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+O texto possui alguns errinhos de digitação e tem campo para melhorias. Ainda assim, é reconhecido o esforço para o oferecimento de uma resposta completa. (0,25) (3,25)      FEEDBACK RAFAEL: houve um esforço para listar os benefícios, contudo, poderia ter sido escrito de modo mais objetivo. (3,0)"
+
+Nota: 8,9
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 20%
+2. Clareza e Legibilidade (15%): 10%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 15%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 90%
+comentário: Há espaço de melhoria com comentários explicativos em algumas células de decisão, como a de ""Permissão necessária?"", em que o contexto presente não é suficiente para identificar que tipo de permissão. Poderia ter interconexão entre piscinas, pois os fluxos se interconectam também. Cada diagrama deveria estar em uma piscina separada (e não em raias da mesma piscina)."
+
+Nota: 9
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 24
+(P1-8) - Parte 1 - Questão 8			: 9
+(P1-9) - Parte 1 - Questão 9			: 9
+(P1-10)- Parte 1 - Questão 10			: 8,9
+(P2-D) - Parte 2  						: 9
+=================
+MÉDIA = 8,9
+=================

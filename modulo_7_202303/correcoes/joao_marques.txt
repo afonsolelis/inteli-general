@@ -1,0 +1,71 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 6
+Pontos : 24
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 5
+--------------------------------------
+Questão 9
+Feedback:
+Existem problemas de catálogo para a regra de negócio, em relação ao ID da mesma. Se tratando de fluxo, não podemos decidir que um item sempre será feito a mesma compra mesmo tendo consumos diferentes pois não é otimizado para o custo de estoque. Lembrando que uma regra de negócio deve automatizar e prever possíveis falhas de operação, e ao padronizar esta operação o custo de estoque ficará incontrolável. Faltou identificar se existem ou não regras relacionadas.
+
+Nota: 7
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+São listados os ganhos, mas em alguns momentos eles se misturam. O desgaste citado no primeiro ganho parece ser evitado com a organização de processos que também é listada como segundo ganho. (1,0)
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+São apresentados os exemplos para os dois ganhos listados. (1,0)
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+A composição do texto, sobretudo no tocante ao terceiro ganho, tem margem para melhoria. Evitar desperdício de tempo e recursos, realmente é um ganho. Entretanto o exemplo do design organizacional feito com pressa não ajuda a mostrar como os recursos podem ser resguardados, na realidade ele reforça o problema. (0,25) (2,25)     FEEDBACK RAFAEL: foram listados benefícios, no entanto, de forma um pouco confusa, em prejuízo de um texto que poderia ter sido mais claro e objetivo. Texto com erro ortográfico (Trás ao invés de traz) (2,25)"
+
+Nota:6,4
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 15%
+2. Clareza e Legibilidade (15%): 5%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 85%
+comentário: O fluxograma em BPMN possui espaço de melhoria na organização e demonstração dos itens. “Iniciar processo de entrega” não é uma atividade, bastaria colocar um label no evento final relacionado com o processo da sequência."
+
+Nota: 8,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 24
+(P1-8) - Parte 1 - Questão 8			: 5
+(P1-9) - Parte 1 - Questão 9			: 7
+(P1-10)- Parte 1 - Questão 10			: 6,4
+(P2-D) - Parte 2  						: 8,5
+=================
+MÉDIA = 8
+=================

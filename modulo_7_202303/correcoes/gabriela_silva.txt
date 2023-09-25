@@ -1,0 +1,71 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 24
+Pontos : 6
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 5
+--------------------------------------
+Questão 9
+Feedback:
+Há uma confusão sobre caso de uso e regras de negócios, as regras de negócios devem ser identificadas para catálogo e devem ter elementos como ID, descrição, e outros vistos em sala. Esta descrição não atende à todos estes requisitos.
+
+Nota: 5
+--------------------------------------
+Questão 10
+Feedback: 
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Os ganhos estão listados.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Não são apresentados exemplos de aplicação prática, apenas explicações mais generalistas (1,0).
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+Não identifiquei erros de concordância ou gramática. O texto está coerente.   (3,0) FEEDBACK RAFAEL: listou as vantagens de modo genérico, sem trazer explicações mais objetivas. Texto coerente e sem erros. (2,5)"
+
+Nota: 7,9
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 15%
+2. Clareza e Legibilidade (15%): 15%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 95%
+comentário: O modelo em BPMN está muito bom, apenas a atividade final não é realmente uma atividade (poderia ser retirada de lá). “Pedido de aprovação para gerente de compras” e “Novo pedido de compras” não são atividades, poderiam ser Objetos de Dados"
+
+Nota: 9,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 24
+(P1-8) - Parte 1 - Questão 8			: 5
+(P1-9) - Parte 1 - Questão 9			: 5
+(P1-10)- Parte 1 - Questão 10			: 7,9
+(P2-D) - Parte 2  						: 9,5
+=================
+MÉDIA = 8,5
+=================

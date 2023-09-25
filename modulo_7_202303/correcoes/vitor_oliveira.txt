@@ -1,0 +1,71 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 7
+Pontos : 28
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Correto!
+
+Nota: 10
+--------------------------------------
+Questão 9
+Feedback:
+"Pontos de melhoria:
+
+Detalhar as ações a serem tomadas quando o estoque mínimo é atingido e como o sistema alertaria o módulo de Compras.
+Especificar como a categoria do produto está relacionada ao desconto e fornecer mais detalhes sobre como o desconto é calculado com base nessa categoria."
+
+Nota: 9
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Lista 2 ganhos, porém cita a implementação de sistemas. A implementação de sistemas não é inerente ao Design Organizacional, haja vista que ele pode ou não fazer parte dos processos de mudança (ou constituição) de uma empresa. (1,0)
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Apresenta exemplos para os dois ganhos corretamente citados. (1,0)
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+A construção do texto possui margem para melhorias, por vezes carecendo de pontuação, por exemplo. (0,25) (2,25)  FEEDBACK RAFAEL: Texto muiot bem escrito e alinhado com o que foi pedido! (3,5)"
+
+Nota: 8,2
+=============================
+Parte 2
+=============================
+Feedback:
+"Sintaxe do BPMN (20%): 15
+2. Clareza e Legibilidade (15%): 10
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 15
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 8,5
+comentário: Optou por criar várias piscinas. No entanto, cada piscina deve ter o seu próprio evento inicial e final e a comunicação entre atividades (ou eventos) é feita pelo fluxo de mensagens (linha pontilhada). "
+
+Nota: 8,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 28
+(P1-8) - Parte 1 - Questão 8			: 10
+(P1-9) - Parte 1 - Questão 9			: 9
+(P1-10)- Parte 1 - Questão 10			: 8,2
+(P2-D) - Parte 2  						: 8,5
+=================
+MÉDIA = 9
+=================

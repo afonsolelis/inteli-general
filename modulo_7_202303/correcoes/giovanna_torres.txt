@@ -1,0 +1,70 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 4
+Pontos : 16
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 5
+--------------------------------------
+Questão 9
+Feedback:
+Correto e bem descrito.
+Nota: 10
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Os ganhos estão listados. Porém, existe uma mistura de conceitos quando se fala de teste. É citado o user testing como forma de observar os usuários reais no sistema, mas o design organizacional não necessariamente implica na adoção de algum tipo de sistema. A mudança aqui poderia ser unicamente em termos de estrutura, sem adoção de sistemas. (1,0)
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+São apresentados exemplos de cada ganho.
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+O texto está bem construído e a resposta mostra preocupação com a reflexão pretendida pela questão.  (3,0)     FEEDBACK RAFAEL: trouxe elementos substanciais, tanto em mencionar o diferencial bem como as vantagens de utilização. Texto bem escrito (3,5)."
+
+Nota: 9,3
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 20%
+2. Clareza e Legibilidade (15%): 15%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 100%
+comentário: não entendi aquele elemento “resposta da aprovação do pedido de compra”; talvez devesse ser um evento intermediário."
+
+Nota: 10
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 16
+(P1-8) - Parte 1 - Questão 8			: 5
+(P1-9) - Parte 1 - Questão 9			: 10
+(P1-10)- Parte 1 - Questão 10			: 9,3
+(P2-D) - Parte 2  						: 10
+=================
+MÉDIA = 8,4
+=================

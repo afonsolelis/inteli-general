@@ -1,0 +1,68 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 4
+Pontos : 16
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Exato!
+
+Nota: 10
+--------------------------------------
+Questão 9
+Feedback:
+Ambas as respostas são razoáveis, mas carecem de maior clareza e especificidade na descrição das regras de negócio e nas ações resultantes. Além disso, os exemplos fornecidos podem ser mais detalhados para fornecer uma compreensão mais precisa das situações em que as regras são aplicadas. Há espaço para melhorias significativas na clareza e especificidade das respostas.
+
+Nota: 6
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+São listados os ganhos.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+São apresentados os exemplos para os ganhos, menos o referente à cultura organizacional. (1,0)
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+O texto tem campo para melhorias, apresentando muitas repetições de palavras, como ""processos"". (0,25) (2,75).    FEEDBACK RAFAEL: trouxe as vantagens, bem como os exemplos para cada uma delas. Texto bem escrito! (3,5). "
+
+Nota: 7,5
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 20%
+2. Clareza e Legibilidade (15%): 15%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 100%
+comentário: Fluxo bem explicado."
+
+Nota: 10
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 16
+(P1-8) - Parte 1 - Questão 8			: 10
+(P1-9) - Parte 1 - Questão 9			: 6
+(P1-10)- Parte 1 - Questão 10			: 7,5
+(P2-D) - Parte 2  						: 10
+=================
+MÉDIA = 8,3
+=================

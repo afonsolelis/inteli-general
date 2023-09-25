@@ -1,0 +1,71 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 5
+Pontos : 20
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Exato!
+
+Nota: 10
+--------------------------------------
+Questão 9
+Feedback:
+"Pontos de melhoria:
+
+ Detalhar como a equipe de estoque é notificada e como a atualização do estoque é realizada quando o estoque mínimo não é atingido.
+"
+
+Nota: 9
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Lista 3 ganhos.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Traz explicações, mas não apresenta exemplos concretos. (1,0)
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+Não identifiquei problemas de concordância ou gramática. O texto está coerente. (3,0)   FEEDBACK RAFAEL: foram listados benefícios de maneira insuficiente com o que foi pedido no enunciado. Texto sem erros. (1,55"
+
+Nota: 6,4
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 15%
+2. Clareza e Legibilidade (15%): 10%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 100%
+comentário: O uso dos gateways pode ser melhorado com os tipos corretos e a coerência de apresentação tem espaço de melhoria também. Uso correto da notação, adotou padronização e fluxo está claro."
+
+Nota: 10
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 20
+(P1-8) - Parte 1 - Questão 8			: 10
+(P1-9) - Parte 1 - Questão 9			: 9
+(P1-10)- Parte 1 - Questão 10			: 6,4
+(P2-D) - Parte 2  						: 10
+=================
+MÉDIA = 8,9
+=================

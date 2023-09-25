@@ -1,0 +1,72 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 3
+Pontos : 12
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 0
+--------------------------------------
+Questão 9
+Feedback:
+Ambas as respostas são razoáveis, mas podem ser mais específicas na descrição das regras de negócio e nas ações resultantes. Os exemplos fornecidos podem ser mais detalhados para fornecer uma compreensão mais precisa das situações em que as regras são aplicadas. Há espaço para melhorias na clareza e especificidade das respostas.
+
+Nota: 6
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Foi listado um ganho apenas. (0,5)
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Não foi apresentado exemplo de aplicação. (0,0)
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+Há erros de digitação na composição da frase, como por exemplo ""empreas"". (0,25)  (0,75) -  FEEDBACK RAFAEL: abordou o conceito, mas não listou  os benefícios da implantação (1,0)"
+
+Nota: 2,5
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 10
+2. Clareza e Legibilidade (15%): 10
+3. Completude (15%): 15%
+4. Consistência (15%): 10
+5. Aderência às Melhores Práticas (20%): 10
+6. Eficiência e Otimização (15%): 10
+7. Nota final: 65
+comentário: O fluxograma em BPMN possui espaço de melhoria na identificação dos tipos de gateways.
+Vários elementos identificados como atividades, na verdade são resultados das condições dos gateways (por exemplo, pedido de compra negado, sim, não)"
+
+Nota: 6,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 12
+(P1-8) - Parte 1 - Questão 8			: 0
+(P1-9) - Parte 1 - Questão 9			: 6
+(P1-10)- Parte 1 - Questão 10			: 2,5
+(P2-D) - Parte 2  						: 6,5
+=================
+MÉDIA = 5,1
+=================

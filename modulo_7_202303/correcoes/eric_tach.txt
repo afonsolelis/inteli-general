@@ -1,0 +1,68 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 6
+Pontos : 24
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Exato!
+
+Nota: 10
+--------------------------------------
+Questão 9
+Feedback:
+O exemplo de regra de negócio pode ser melhorado colocando o texto da ação como caso de uso: "Ao identificar que o estoque está à 10%...", mas atende aos requisitos da questão em todos os elementos solicitados, menos na descrição, apesar de ser direto e suscinto.
+
+Nota: 9
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Os dois primeiros ganhos listados estão repetitivos. Ambos tratam do entendimento de papéis dos funcionários (1,0).
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+São apresentados exemplos no contexto dos dois ganhos listados (1,0).
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+Cuidado com a conjugação do verbo ""haver"". Quando o verbo ""haver"" é usado no sentindo de ""existir"", ele é impessoal. Não há sujeito para ele concordar. Nesse caso se diz ""haverá"". Sua frase ficaria, então: ""(...) é possível entender onde haverá mais gargalos (...)"". (0,25) (2,25) FEEDBACK RAFAEL: abordou conceitos sem se preocupar com as vantagens e benefícios de adoção. Texto sem erros. (2,5)"
+
+Nota:6,8
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 20%
+2. Clareza e Legibilidade (15%): 10%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 15%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 90%
+comentário: Há espaço para melhorias em relação à explicação do processo, como no ""selecionar melhor cotação"", há um processo decisório: o que acontece se não houver cotação adequada?"
+
+Nota: 9
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 24
+(P1-8) - Parte 1 - Questão 8			: 10
+(P1-9) - Parte 1 - Questão 9			: 9
+(P1-10)- Parte 1 - Questão 10			: 6,8
+(P2-D) - Parte 2  						: 9
+=================
+MÉDIA = 8,8
+=================

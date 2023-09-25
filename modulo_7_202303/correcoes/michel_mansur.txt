@@ -1,0 +1,68 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 3
+Pontos : 12
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Exato!
+
+Nota: 10
+--------------------------------------
+Questão 9
+Feedback:
+Para as seguintes regars de negócios, faltaram pontos de identificação catalográfica como ID, e a generalização de 3 produtos apenas não é o ideal para o fluxo de processo da empresa, poderia ter sido usado um cálculo de estoque mpinimo ou um desvio padrão em percentual. Dentro da ação resultante, está muito correlacionado à caso de uso, o que não é dever de regra de negócio.
+
+Nota: 6,5
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+A explicação está correta, mas pode-se considerar que foi listado um ganho apenas. (0,5)
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Foi apresentado o exemplo para apenas um ganho. (0,5)
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+A composição da frase tem margem para melhoria. Está posta de maneira muito informal, sem pontuação correta. (0,25) (1,25) FEEDBACK RAFAEL: abordou conceitos, mas não listou  os benefícios da implantação (1,25)"
+
+Nota: 3,6
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 0%
+2. Clareza e Legibilidade (15%): 10%
+3. Completude (15%): 0%
+4. Consistência (15%): 10%
+5. Aderência às Melhores Práticas (20%): 0%
+6. Eficiência e Otimização (15%): 5%
+7. Nota final: 25%
+comentário: Não foram utilizados os padrões do BPMN nem as melhores práticas, não pode ser analisado a otimização pois os comandos estão vagos, como ""Ação Necessária"""
+
+Nota: 2,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 12
+(P1-8) - Parte 1 - Questão 8			: 10
+(P1-9) - Parte 1 - Questão 9			: 6,5
+(P1-10)- Parte 1 - Questão 10			: 3,6
+(P2-D) - Parte 2  						: 2,5
+=================
+MÉDIA = 3,9
+=================

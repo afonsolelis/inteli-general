@@ -1,0 +1,68 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 6
+Pontos : 24
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+Perfeito!
+
+Nota: 10
+--------------------------------------
+Questão 9
+Feedback:
+Importante ressaltar que o tamanho do estoque mínimo deve ser mais bem detalhado, mas apesar deste direcionamento as regras são claras e objetivas. Faltam itens de catálogo como ID da regra.
+
+Nota: 7
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+São listados os ganhos.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+São apresentados os exemplos para os ganhos.
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+O texto poderia estar organizado de uma forma um pouco mais lógica, em termos de apresentação das exemplificações. Precisei ler algumas vezes, buscando associar os ganhos aos exemplos citados, pois nem sempre a ponte era óbvia. (0,25) (3,25). FEEDBACK RAFAEL:  abordou conceitos, no entanto, sem se preocupar com o que foi pedido. (1,0)"
+
+Nota: 6,1
+=============================
+Parte 2
+=============================
+Feedback:
+"1. Sintaxe do BPMN (20%): 15%
+2. Clareza e Legibilidade (15%): 10%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 20%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 95%
+comentário: O padrão BPMN foi utilizado, mas poderia ser melhorado identificando o tipo de gateway e os fluxos. Uso da piscina bem utilizado."
+
+Nota: 9,5
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 24
+(P1-8) - Parte 1 - Questão 8			: 10
+(P1-9) - Parte 1 - Questão 9			: 7
+(P1-10)- Parte 1 - Questão 10			: 6,1
+(P2-D) - Parte 2  						: 9,5
+=================
+MÉDIA = 8,9
+=================

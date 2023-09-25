@@ -1,0 +1,72 @@
+=============================
+-- Pontuação --
+Parte 1
+	As questões objetivas de 1 a 7 valem 4 pontos cada.
+	As questões dissertativas de 8 a 10 valem 7 pontos cada.
+	
+A Parte 1 vale 49 pontos.
+A Parte 2 vale 51 pontos.
+===================================
+Parte 1 - Questões Opcionais
+===================================
+Acertos: 4
+Pontos : 16
+===================================
+Parte 1 - Questões Dissertativas
+===================================
+Questão 8
+Feedback:
+"PEC (em quantidade) = (Custo Fixo + Despesas Fixas)/(Margem de Contribuição Unitária)
+PEC = R$1.000,00 / (R$10,00 - R$8,00)
+PEC = R$1.000,00 / R$2,00 = 500 unidades
+Portanto, o Ponto de Equilíbrio Contábil da fábrica de chocolates Moleque Ltda é de 500 unidades (kg) por mês. Isso significa que a fábrica precisa vender pelo menos 500 kg de chocolate por mês para cobrir seus custos totais e não ter lucro nem prejuízo."
+
+Nota: 9
+--------------------------------------
+Questão 9
+Feedback:
+Boa descrição das regras, e seria importante colocar o título da regra de negócio para fins catalográficos. Importante indicar como é calculado o nível mínimo de produtos ou de onde vem esta informação.
+
+Nota: 9
+--------------------------------------
+Questão 10
+Feedback:
+"FEEDBACK JULIA
+Lista e contextualiza ao menos 3 ganhos do Design Organizacional no contexto da questão (Até 1,5 pontos):
+Lista 3 ganhos.
+Apresenta exemplos de cada ganho (Até 1,5 pontos):
+Trouxe 3 exemplos.
+O texto está construído de forma clara e coerente, sem erros de ortografia, concordância ou gramática (Até 0,5 pontos):
+Apresenta um erro de concordância na primeira frase, que deveria ser: ""Os principais ganhos em se rascunhar o Design Organizacional da empresa apresentada na questão, antes de sua consolidação, se concentraM em:"" (0,25)  (3,25)    FEEDBACK RAFAEL: trouxe elementos substanciais, tanto em mencionar o diferencial bem como as vantagens de utilização(3,5)."
+
+Nota: 9,6
+=============================
+Parte 2
+=============================
+Feedback:
+"Sintaxe do BPMN (20%): 15%
+2. Clareza e Legibilidade (15%): 15%
+3. Completude (15%): 15%
+4. Consistência (15%): 15%
+5. Aderência às Melhores Práticas (20%): 15%
+6. Eficiência e Otimização (15%): 15%
+7. Nota final: 9,0
+comentário: Há espaço de melhoria em relação à organização, como por exemplo a saída de fluxo da célula decisória. As boas práticas indicam que cada ponto do losango deve sair uma linha e processo, e neste caso fica confuso a saída única.
+O fluxo entre raias da mesma piscina não é de mensagens (pontilhado), é fluxo de tarefa (linha contínua)."
+
+Nota: 9
+=============================
+Cálculo da Média
+=============================
+Nota Parte 1 	= (P1-O + ((P1-8)*0,7)+((P1-9)*0,7)+((P1-10)*0,7))
+Nota Parte 2 	= ((P2-D) * 5,1)
+Média 			= ((Nota Parte 1 + Nota Parte 2)/10)
+Resumo Notas:
+(P1-O) - Parte 1 - Questões Opcionais	: 16
+(P1-8) - Parte 1 - Questão 8			: 9
+(P1-9) - Parte 1 - Questão 9			: 9
+(P1-10)- Parte 1 - Questão 10			: 9,6
+(P2-D) - Parte 2  						: 9
+=================
+MÉDIA = 8,1
+=================
