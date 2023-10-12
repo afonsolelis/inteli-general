@@ -1,0 +1,22 @@
+version: "3.7"
+services:
+  namenode:
+    image: hadoop:3.3.1
+    container_name: namenode
+    ports:
+      - "9000:9000"
+  datanode:
+    image: hadoop:3.3.1
+    container_name: datanode
+    volumes:
+      - /data:/hadoop/data
+  hive:
+    image: hive:3.1.2
+    container_name: hive
+    ports:
+      - "10000:10000"
+    environment:
+      - HIVE_METASTORE_URI=thrift://namenode:9090
+
+volumes:
+  data:
