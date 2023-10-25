@@ -1,0 +1,8 @@
+setup.py
+intelidata/__init__.py
+intelidata/lib.py
+intelidata.egg-info/PKG-INFO
+intelidata.egg-info/SOURCES.txt
+intelidata.egg-info/dependency_links.txt
+intelidata.egg-info/top_level.txt
+tests/test_lib.py
